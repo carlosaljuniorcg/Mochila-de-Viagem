@@ -1,2 +1,1 @@
-# Mochila-de-Viagem
-Interação com LocalStorage
+# alura-armazenando-na-web
